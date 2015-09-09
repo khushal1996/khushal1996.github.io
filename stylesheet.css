@@ -9,8 +9,8 @@
     background-image:url("http://cdn.designsrazzi.com/images/2014/03/whatsapp-swapped-logos.jpg");
     background-position:top;
     background-repeat:no-repeat;
-    max-width:100%;
+    width:100%;
     height:100%;
-    background-size:cover;
+    background-size:contain;
     
   }
