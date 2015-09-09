@@ -1,7 +1,6 @@
 body {
-    font-family: Arial;
-    font-size: 11px;
-    color: #ffffff;
-    background: #202020 url("http://andyroid.vonetize.com.edgesuite.net/website10/wp-content/uploads/2014/08/Whatsapp-for-PC.jpg") no-repeat top center fixed;
-    background-size: cover;
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
 }
