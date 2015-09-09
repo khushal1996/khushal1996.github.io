@@ -1,17 +1,7 @@
-#body {
-  background: url("http://andyroid.vonetize.com.edgesuite.net/website10/wp-content/uploads/2014/08/Whatsapp-for-PC.jpg");
-  
-  z-index: -999;
-  min-height: 100%;
-  width: 100%;
-  height: auto;
-  position: fixed;
-  top: 0;
-  left: 0;
-}
-html body{
-  height: 100%;
-  width: 100%;
-  padding: 0;
-  margin: 0;
+body {
+    font-family: Arial;
+    font-size: 11px;
+    color: #ffffff;
+    background: #202020 url("http://andyroid.vonetize.com.edgesuite.net/website10/wp-content/uploads/2014/08/Whatsapp-for-PC.jpg") no-repeat top center fixed;
+    background-size: cover;
 }
