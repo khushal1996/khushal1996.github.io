@@ -1,3 +1,5 @@
-body {
+#file {
     background-image: url("http://www.gadgehit.com/wp-content/uploads/2011/12/whatsapp-messenger.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
 }
