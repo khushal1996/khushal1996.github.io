@@ -1,4 +1,7 @@
 #body {
   background: url("http://9jaextra.com/wp-content/uploads/2013/08/whatsapp-logo-best-@-www.9jaextra.com_.jpg");
-  background-size: 100% 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
