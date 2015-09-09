@@ -1,5 +1,5 @@
 #body {
-  background: url("http://neurogadget.com/wp-content/uploads/2015/08/WhatsApp-2.12.244-Download-759x500.jpg");
+  background: url("http://neurogadget.com/wp-content/uploads/2015/08/WhatsApp-2.12.244-Download-759x500.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
