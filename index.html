@@ -2,22 +2,47 @@
 <html>
   <head>
     <link rel="stylesheet" type="text/css" href="stylesheet.css" />
-    <title>Whatsapp Web</title>
   </head>
   <body>
     <div class="back">
 		<div id="khushal">
-			<div id="name">
-				<p>mobile number</p>
+			<div>
+				<form id="login_form" action="process.php">
+					<div id="username">
+						Mobile number: <input type="text" />
+					</div>
+					<div id="password">
+						Password: <input style="margin-left: 2.9em" type="password" />
+					</div>
+					<input  id="login_button" type="submit" value="Login"/>
+				</form>
 			</div>
-			<div id="password">
-				<p style="color:black">Password</p>
-			</div>
-			<div id="number">
-				<input type="text" placeholder="number"></input>
-			</div>
-			<div id="inputpass">
-				<input type="text" placeholder="password"></input>
+			<div id="sign-up">
+				<div id="new_user">
+					<p id="size"><strong>Sign Up</strong></p>
+				</div>
+				<div id="signup_form">
+					<div id="form">
+						<form>
+							<div class="form1">
+								<input class="fill" type="text" placeholder="Full Name"/>
+							</div>
+							<div class="form1">
+								<input class="fill" type="text" placeholder="Mobile Number"/>
+							</div>
+							<div class="form1">
+								<input class="fill" type="text" placeholder="Re-enter mobile number"/>
+							</div>
+							<div class="form1">
+								<input class="fill" type="password" placeholder="Password"/>
+							</div>
+							<div class="form1">
+								<input class="fill" type="password" placeholder="Re-enter Password"/>
+							</div>
+							<input class="create_account" type="submit" value="Create account"/>
+						</form>
+					</div>
+				</div>
 			</div>
 		</div>
     </div>
