@@ -1,11 +1,8 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-<<<<<<< HEAD
-=======
 	<title>Whatsapp Web</title>
 	<link rel="icon" type="image/png" href="icon.png" />
->>>>>>> c6d78331a2ebe6b69e0abbfde825175a4f51a739
     <link rel="stylesheet" type="text/css" href="stylesheet.css" />
   </head>
   <body>
@@ -28,23 +25,23 @@
 				</div>
 				<div id="signup_form">
 					<div id="form">
-						<form action="mysql1.php" mehthod="POST">
+						<form action='mysql.php' method='POST'>
 							<div class="form1">
-								<input class="fill" type="text" placeholder="Full Name" name="fullname"/>
+								<input class="fill" type="text" placeholder="Full Name" name='fullname' />
 							</div>
 							<div class="form1">
-								<input class="fill" type="text" placeholder="Mobile Number" name="mobilenumber"/>
+								<input class="fill" type="text" placeholder="Mobile Number" name='mobilenumber'/>
 							</div>
 							<div class="form1">
-								<input class="fill" type="text" placeholder="Re-enter mobile number" name="Mobilenumber"/>
+								<input class="fill" type="text" placeholder="Re-enter mobile number" name='Mobilenumber'/>
 							</div>
 							<div class="form1">
-								<input class="fill" type="password" placeholder="Password" name="password"/>
+								<input class="fill" type="password" placeholder="Password" name='password'/>
 							</div>
 							<div class="form1">
-								<input class="fill" type="password" placeholder="Re-enter Password" name="Password"/>
+								<input class="fill" type="password" placeholder="Re-enter Password" name='Password'/>
 							</div>
-							<input class="create_account" type="submit" value="Create account"/>
+							<input class="create_account" type="submit" value="Create account" name='submit' />
 						</form>
 					</div>
 				</div>

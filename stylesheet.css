@@ -6,7 +6,7 @@
     height:100%;
   }
 .back{
-    background-image:url("http://cdn.designsrazzi.com/images/2014/03/whatsapp-swapped-logos.jpg	");
+    background-image:url("whatsapp1.jpg");
     background-position:top;
     background-repeat:no-repeat;
     width:100%;
@@ -46,6 +46,7 @@
 	width:100%;
 	/*border:2px solid black;*/
 	height:27em;
+	clear:both
 	}
 #new_user {
 	float:left;
@@ -76,13 +77,14 @@
 	}
 .form1 {
 	width:100%;
+	clear:both;
 	}
 .fill {
 	width:50%;
 	margin-top:0.5em;
 	margin-left:0.5em;
 	height:2em;
-	border-radius:10px;
+	border-radius:5px;
 	}
 .create_account {
 	margin-top:1em;
@@ -90,4 +92,7 @@
 	height:2em;
 	border-radius:1em;
 	cursor:pointer;
+	}
+input {
+	padding-left:0.5em;
 	}

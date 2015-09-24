@@ -1,8 +1,8 @@
 <?php
 
 
- $connect = mysql_connect(192.168.137.1,"root","") or die("conection failed");
- echo "Connected!";
+$connect = mysql_connect("localhost","root","khushal@125") or die ("connection failed");
+mysql_select_db("whatsapp") or die ("error connecting");
 
 
 
