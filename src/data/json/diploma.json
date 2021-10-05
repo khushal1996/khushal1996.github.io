@@ -1,0 +1,183 @@
+{
+  "terms": [
+    {
+      "name": "1. Semester",
+      "courses": [
+        {
+          "courseName": "CSE 511 Data Processing at Scale",
+          "books": [
+            {
+              "isbn": ["0596008678", "9780596008673"],
+              "progress": 100
+            }
+          ]
+        },
+        {
+          "courseName": "CSE 515 Multimedia and Web Databases",
+          "books": [
+            {
+              "isbn": ["1491912987", "9781491912980"],
+              "progress": 0
+            },
+            {
+              "isbn": ["0262258102", "9780262258104"],
+              "progress": 100
+            }
+          ]
+        },
+        {
+          "courseName": "CSE 535 Mobile Computing",
+          "books": [
+            {
+              "isbn": [""],
+              "progress": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2. Semester",
+      "courses": [
+        {
+          "courseName": "CSE 551 Foundations of Algorithms",
+          "books": [
+            {
+              "isbn": ["1292061847", "9781292061849"],
+              "progress": 100
+            }
+          ]
+        },
+        {
+          "courseName": "CSE 573 Semantic Web Mining",
+          "books": [
+            {
+              "isbn": ["1315303698", "9781315303697"],
+              "progress": 100
+            }
+          ]
+        },
+        {
+          "courseName": "CSE 598 Data Intensive Systems for Machine Learning",
+          "books": [
+            {
+              "isbn": ["0470167742", "9780470167748"],
+              "progress": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "3. Semester",
+      "courses": [
+        {
+          "courseName": "BMI 598 NLP methods for Biomedical Text Mining",
+          "books": [
+            {
+              "isbn": ["1292096861", "9781292096865"],
+              "progress": 33
+            }
+          ]
+        },
+        {
+          "courseName": "CSE 545 Software Security",
+          "books": [
+            {
+              "isbn": ["1492043427", "9781492043423"],
+              "progress": 33
+            }
+          ]
+        },
+        {
+          "courseName": "CSE 569 Fundamentals of Statistical Learning",
+          "books": [
+            {
+              "isbn": ["0471722332", "9780471722335"],
+              "progress": 33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "4. Semester",
+      "courses": [
+        {
+          "courseName": "SWE 542 Advanced Software Engineering",
+          "books": [
+            {
+              "isbn": ["1292025948", "9781292025940"],
+              "progress": 0
+            },
+            {
+              "isbn": ["007769774X", "9780077697747"],
+              "progress": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extras": [
+    {
+      "name": "Guides",
+      "books": [
+        {
+          "isbn": ["0769551661", "9780769551661"],
+          "static": {
+            "title": "Guide to the Software Engineering Body of Knowledge (SWEBOK®): Version 3.0",
+            "thumbnail": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422647423l/20665102.jpg",
+            "link": "https://www.goodreads.com/book/show/20665102-guide-to-the-software-engineering-body-of-knowledge-swebok-r"
+          },
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "name": "Optional Reading",
+      "books": [
+        {
+          "isbn": ["1292110988", "9781292110981"],
+          "progress": 0
+        },
+        {
+          "isbn": ["0133597261", "9780133597264"],
+          "progress": 0
+        },
+        {
+          "isbn": ["1118104846", "9781118104842"],
+          "progress": 0
+        },
+        {
+          "isbn": ["1491910046", "9781491910047"],
+          "progress": 0
+        },
+        {
+          "isbn": ["1119578884", "9781119578888"],
+          "progress": 0
+        },
+        {
+          "isbn": ["0133440737", "9780133440737"],
+          "progress": 0
+        },
+        {
+          "isbn": ["0786745207", "9780786745203"],
+          "progress": 0
+        },
+        {
+          "isbn": ["1617292397", "9781617292392"],
+          "progress": 0
+        },
+        {
+          "isbn": ["013937681X", "9780139376818"],
+          "progress": 0
+        },
+        {
+          "isbn": ["1430208570", "9781430208570"],
+          "progress": 0
+        }
+      ]
+    }
+  ]
+}
